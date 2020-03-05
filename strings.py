@@ -1,5 +1,6 @@
 #In most fo the programmming languages a b c d declared as char and write declare as string
 #but in python all  a b c d write declared as string
+#string is array of chars that between the quotes
 
 x = "c"
 print(type(x))
